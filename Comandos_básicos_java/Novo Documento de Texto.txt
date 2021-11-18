@@ -10,3 +10,14 @@ outros	                                     break, continue, label:, return
 System.out.print("");     Para printar uma mensagem na tela.
 System.out.println("");   Para printar uma mensagem com quebra de linha na tela.
 System.out.printf("");    Para imprimir algo formatado.
+
+
+Os tipos de dados/variáveis primitivas no Java são 8:
+
+byte, short, char, int, long, float, double e boolean.
+byte -> short -> char -> int -> long -> float -> double.
+int -> long -> float -> double.
+
+sintaxe:
+
+<tipo> <nome> = <valor inicial>;
